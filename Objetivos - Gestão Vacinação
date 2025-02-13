@@ -28,3 +28,13 @@ Monitorar lotes de vacinas e prazos de validade para evitar desperdícios.
 
 - Gerar relatórios com dados estatísticos sobre número de doses aplicadas e pendentes.
 - Permitir análises por região, auxiliando as secretarias de saúde no planejamento da distribuição de vacinas.
+
+Operações
+
+
+1️⃣ Inserir um novo paciente (insertOne)
+
+2️⃣ Atualizar o status de um agendamento (se um paciente tomou a vacina, podemos atualizar o status do agendamento de "Pendente" para "Concluído").
+
+
+
