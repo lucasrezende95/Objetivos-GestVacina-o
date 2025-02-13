@@ -1,0 +1,30 @@
+Este banco de dados foi projetado para otimizar o registro, controle e gestão da vacinação no SUS.
+
+*1- Objetivo Geral*
+
+Criar uma base de dados eficiente e estruturada para armazenar e gerenciar informações sobre pacientes, vacinas, agendamentos e cobertura vacinal no Sistema Único de Saúde (SUS).
+
+Objetivos Específicos
+
+*Registro de Pacientes*
+
+- Armazenar dados pessoais dos pacientes (nome, CPF, cartão do SUS, endereço, contato, etc.).
+- Registrar comorbidades e alergias a vacinas, permitindo um acompanhamento mais preciso.
+- Manter um histórico vacinal completo, garantindo controle sobre doses aplicadas e futuras aplicações.
+
+*Controle das Vacinas*
+
+Listar todas as vacinas disponíveis, com informações sobre fabricante, doses necessárias e prazo entre aplicações.
+Monitorar lotes de vacinas e prazos de validade para evitar desperdícios.
+
+*Agendamento e Status das Vacinações*
+
+- Registrar e gerenciar agendamentos de vacinação, evitando filas e desorganização.
+- Definir o status do agendamento: pendente, concluído ou cancelado.
+- Garantir que pacientes recebam todas as doses necessárias dentro do intervalo recomendado.
+
+
+*Monitoramento da Cobertura Vacinal*
+
+- Gerar relatórios com dados estatísticos sobre número de doses aplicadas e pendentes.
+- Permitir análises por região, auxiliando as secretarias de saúde no planejamento da distribuição de vacinas.
